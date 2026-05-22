@@ -1,2 +1,3 @@
-# .github
-Kinako LLC
+# Kinako
+
+Making software for humans.
